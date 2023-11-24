@@ -1,1 +1,1 @@
-# heretica_station
+# Heretica station
